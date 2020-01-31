@@ -1,0 +1,2 @@
+# QualityKinematicsDemo
+我想逐步从底层创建一个用于演示单质点乃至多质点运动的程序。
